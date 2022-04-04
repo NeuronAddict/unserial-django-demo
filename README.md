@@ -44,3 +44,6 @@
   - salt = 'django.contrib.sessions.backends.signed_cookies'
   - algorithm = 'sha256'
 
+## template
+
+credit : https://www.free-css.com/free-css-templates/page276/transportz
